@@ -1,0 +1,6 @@
+Original: x = 42, *p = 42
+After direct dereference edit: x = 99
+After increment function call: x = 100
+ap points to arr[0]: *ap = 100
+ap + 1 points to arr[1]: *ap = 200
+ap += 1 points to arr[2]: *ap = 300

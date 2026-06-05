@@ -1,0 +1,5 @@
+data[2] = 30, data[4] = 50
+name = Hello, strlen = 5
+strcpy: dest = Hello
+strcat: dest = Hello World
+strcmp same: 0, different: -1

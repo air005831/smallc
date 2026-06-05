@@ -1,0 +1,3 @@
+# requirements.txt
+# This project uses only standard Python 3.10+ libraries (sys, os, re, struct, math, io).
+# No external third-party dependencies are required.

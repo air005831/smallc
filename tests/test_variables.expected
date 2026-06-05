@@ -1,0 +1,4 @@
+Global: 100, Local: 50
+After edit: Global: 110, Local: 100
+Short circuit AND: y is still 5
+Short circuit OR: x is still 0

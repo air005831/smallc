@@ -1,0 +1,4 @@
+Precedence: 2 + 3 * 4 = 14
+Parens: (2 + 3) * 4 = 20
+Hex operations: 0xFF & 0x0F = 15
+Logical: 5 > 3 = 1, 5 < 3 = 0
